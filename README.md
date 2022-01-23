@@ -1,11 +1,6 @@
 <div align="center">
 
-# Project Title Goes here 
-
-###  Add image/logo here
-<img src='https://cdn.dribbble.com/users/159078/screenshots/3018147/output_07opxg.gif' width=150px> <br>
-source : https://dribbble.com/shots/3018147-Quick-Add-Loading-Animation <br>
-
+# Applying-Knowledge-Tracing-Algorithm-to-understand-Behavior
   
 [About](#about) •
 [Configuration Requirements](#configuration-requirements) •
@@ -30,7 +25,15 @@ What is the required configuration for running this code
 
 ## 🖥️ Findings <a name="installation"></a>
 
-From the above experiment, it can be concluded that with minimum information of 50-60% which averages to 78-85 steps into the problem solving, where each step is labelled with some epistemic activity, this model can predict with 80 percent of the accuracy whether the student will be able to reach the end result or not. This result seems promising as, with the help of this model we can give early feedbacks to the students while they are trying to solve a problem and hence can influence their results in the right direction.
+<img src='https://github.com/saumyagoyal95/Applying-Knowledge-Tracing-Algorithm-to-understand-Behavior/blob/19e28da9460277e9c39aa486d38624281a9f5b9a/Images/Correlation%20matrix.png' width=400px> <br>
+
+<img src='https://github.com/saumyagoyal95/Applying-Knowledge-Tracing-Algorithm-to-understand-Behavior/blob/19e28da9460277e9c39aa486d38624281a9f5b9a/Images/EDA-withEDAsteps.png' width=400px> <br>
+
+(See RNN-mode.ipynb)
+From the above experiment, it can be concluded that with minimum information of 50-60% which averages to 78-85 steps into the problem solving, where each step is labelled with some epistemic activity, this model can predict with 80 percent of the accuracy whether the student will be able to reach the end result or not. 
+
+This result seems promising as, with the help of this model we can give early feedbacks to the students while they are trying to solve a problem and hence can influence their results in the right direction.
+
 
 ## ✍️ Further Modifications <a name="how-to-contribute"></a>
 
