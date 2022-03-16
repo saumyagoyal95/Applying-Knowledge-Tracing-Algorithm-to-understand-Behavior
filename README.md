@@ -27,7 +27,13 @@ What is the required configuration for running this code
 
 <img src='https://github.com/saumyagoyal95/Applying-Knowledge-Tracing-Algorithm-to-understand-Behavior/blob/3e337b9e094af3ad71a6a26c337a31dff22f7bac/Images/CorrelationMatrix.png' width=500px> <br>
 
-<img src='https://github.com/saumyagoyal95/Applying-Knowledge-Tracing-Algorithm-to-understand-Behavior/blob/19e28da9460277e9c39aa486d38624281a9f5b9a/Images/EDA-withEDAsteps.png' width=400px> <br>
+<img src='https://github.com/saumyagoyal95/Applying-Knowledge-Tracing-Algorithm-to-understand-Behavior/blob/f5e81091873a85e9288e60aa2938db5cff3b9263/Images/EDaParticipant.PNG' width=500px> <br>
+
+<img src='https://github.com/saumyagoyal95/Applying-Knowledge-Tracing-Algorithm-to-understand-Behavior/blob/f5e81091873a85e9288e60aa2938db5cff3b9263/Images/TimeParticipant.PNG' width=500px> <br>
+
+<img src='https://github.com/saumyagoyal95/Applying-Knowledge-Tracing-Algorithm-to-understand-Behavior/blob/f5e81091873a85e9288e60aa2938db5cff3b9263/Images/ImportantFactors.PNG' width=500px> <br>
+
+<img src='https://github.com/saumyagoyal95/Applying-Knowledge-Tracing-Algorithm-to-understand-Behavior/blob/main/Images/TestDataset.PNG' width=500px> <br>
 
 (See RNN-mode.ipynb)
 From the above experiment, it can be concluded that with minimum information of 50-60% which averages to 78-85 steps into the problem solving, where each step is labelled with some epistemic activity, this model can predict with 80 percent of the accuracy whether the student will be able to reach the end result or not. 
