@@ -25,7 +25,7 @@ What is the required configuration for running this code
 
 ## 🖥️ Findings <a name="installation"></a>
 
-<img src='https://github.com/saumyagoyal95/Applying-Knowledge-Tracing-Algorithm-to-understand-Behavior/blob/19e28da9460277e9c39aa486d38624281a9f5b9a/Images/Correlation%20matrix.png#gh-dark-mode-only' width=400px> <br>
+<img src='https://github.com/saumyagoyal95/Applying-Knowledge-Tracing-Algorithm-to-understand-Behavior/blob/3e337b9e094af3ad71a6a26c337a31dff22f7bac/Images/CorrelationMatrix.png' width=500px> <br>
 
 <img src='https://github.com/saumyagoyal95/Applying-Knowledge-Tracing-Algorithm-to-understand-Behavior/blob/19e28da9460277e9c39aa486d38624281a9f5b9a/Images/EDA-withEDAsteps.png' width=400px> <br>
 
